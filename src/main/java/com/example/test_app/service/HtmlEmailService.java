@@ -59,9 +59,5 @@ public class HtmlEmailService {
         catch (Exception ex) {
             System.out.println("Error sending message!");
         }
-
-
-
     }
-
 }
